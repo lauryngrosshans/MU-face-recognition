@@ -1,0 +1,2 @@
+address = "https:// *PASTE IP WEBCAM APP IP ADDRESS HERE* /video"
+        video_capture.open(address)
