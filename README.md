@@ -20,7 +20,10 @@ To use an Android phone Camera with this facial recongition, here are the steps:
 1. Download IP Webcam from the app store
 2. Run the webcam
 3. Copy the IP Address
-4. In your code, paste the 'video webcam code' into your facial recogntion code underneath line 
+4. In your code, paste the 'video webcam code' into your facial recogntion code underneath line 59.
+
+Run the code for your facial recognition attendance system through an Android Camera.
+
 Video References:
 - Watch the YouTube video by Indently for the source of the facial recognition code https://www.youtube.com/watch?v=tl2eEBFEHqM&t=3s&ab_channel=Indently)
 - Watch the YouTube video by Murtzaza's Workshop https://www.youtube.com/watch?v=sz25xxF_AVE&ab_channel=Murtaza%27sWorkshop-RoboticsandAI and start at 42:49
