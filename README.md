@@ -20,7 +20,7 @@ To use an Android phone Camera with this facial recongition, here are the steps:
 1. Download IP Webcam from the app store
 2. Run the webcam
 3. Copy the IP Address
-4. In your code, paste the 'video webcam code' into your facial recogntion code underneath line 59.
+4. In your code, paste the 'video webcam code' into your facial recogntion code underneath line 59. Add the IP address to where it says 'paste IP webcam app IP address here'
 
 Run the code for your facial recognition attendance system through an Android Camera.
 
