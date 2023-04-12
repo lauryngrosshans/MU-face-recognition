@@ -1,18 +1,20 @@
 # MU-face-recognition
-Dr. Bubar Engineering Student Attendance System 
 Create your own face recognition attendance system of your classmates!
 
 INSTALLATION
 1. Download Anacanda and open the Spyder Application.
 2. Create a folder on your desktop labeled 'faces' and include the images under the 'faces' folder or the pictures you would like to use in your databases.
 (Make sure all images are in PNG)
+3. Download these packages: cmake, dlib, opencv, face_recognition 
+(if you are having trouble downloading these packages, intall homebrew into your Spyder terminal)
 
 CODE
 1. Start a new file titled 'AI Attendance.py'
 2. Start another file titled 'Attendance.csv'
-3. Paste the 'AI Attendance.py' code into Spyder under the AI attendance.py file.
+3. Under the file Attendance.csv, write 'Name, Time' in line 1
+4. Paste the 'AI Attendance.py' code into Spyder under the AI attendance.py file.
 
-Run the code for your facial recognition with attendance tracking system.
+Run the code for your facial recognition with attendance tracking system. Under the file Attendance.csv you will see the name and time tracked.
 
 
 USING OPENCV WITH ANDROID CAMDERA
