@@ -1,5 +1,5 @@
 # MU-face-recognition
-Create your own face recognition attendance system of your classmates!
+Create your own face recognition attendance system of your classmates! *macOS compatible only*
 
 INSTALLATION
 1. Download Anacanda and open the Spyder Application.
